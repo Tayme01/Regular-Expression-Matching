@@ -1,0 +1,29 @@
+{
+  "name": "regex_matching",
+  "version": "1.0.0",
+  "description": "Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayme01/Regular-Expression-Matching.git"
+  },
+  "keywords": [
+    "leetcode",
+    "hard",
+    "javascript",
+    "mocha",
+    "regex"
+  ],
+  "author": "Temi Oluseun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayme01/Regular-Expression-Matching/issues"
+  },
+  "homepage": "https://github.com/Tayme01/Regular-Expression-Matching#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
