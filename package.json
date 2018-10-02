@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Tayme01/Regular-Expression-Matching#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
 }
