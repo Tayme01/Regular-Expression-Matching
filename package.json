@@ -4,7 +4,7 @@
   "description": "Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.",
   "main": "solution.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
